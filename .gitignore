@@ -1,0 +1,12 @@
+#Ignore Build
+*/build/
+.gradle/
+.idea/
+
+#Ignore temp files
+*.log
+*.tmp
+
+#Allow native files
+!*.so
+!*.sym.so
