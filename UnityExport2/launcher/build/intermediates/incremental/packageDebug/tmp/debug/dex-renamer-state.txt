@@ -1,0 +1,10 @@
+#Fri Sep 26 12:48:31 CEST 2025
+base.0=/Users/alejandroojeda/Documents/GameTestBuilds/UnityExport2/launcher/build/intermediates/dex/debug/mergeExtDexDebug/classes.dex
+base.1=/Users/alejandroojeda/Documents/GameTestBuilds/UnityExport2/launcher/build/intermediates/dex/debug/mergeLibDexDebug/1/classes.dex
+base.2=/Users/alejandroojeda/Documents/GameTestBuilds/UnityExport2/launcher/build/intermediates/dex/debug/mergeProjectDexDebug/0/classes.dex
+path.0=classes.dex
+path.1=1/classes.dex
+path.2=0/classes.dex
+renamed.0=classes.dex
+renamed.1=classes2.dex
+renamed.2=classes3.dex

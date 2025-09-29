@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.DefaultCompany.Mobilegametest.launcher-mergeDebugResources-19:/values-v31/values-v31.xml",
+            "map": [
+                {
+                    "source": "/Users/alejandroojeda/Documents/GameTestBuilds/UnityExport2/unityLibrary/build/intermediates/packaged_res/debug/packageDebugResources/values-v31/values-v31.xml",
+                    "from": {
+                        "startLines": "2,9",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,612",
+                        "endLines": "8,15",
+                        "endColumns": "10,10",
+                        "endOffsets": "607,1166"
+                    }
+                }
+            ]
+        }
+    ]
+}

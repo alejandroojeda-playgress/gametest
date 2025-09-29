@@ -1,0 +1,87 @@
+﻿#include "pch-c.h"
+
+
+#include "codegen/il2cpp-codegen-metadata.h"
+
+
+
+
+
+extern void Background_Start_mE85E1738F8CF767670907703177A11DDB3599DD3 (void);
+extern void Background_Update_m3F6064B5F66C02B5AE62F3B5BB0F5C0895B45864 (void);
+extern void Background_generateBalloon_mA1F5A5BF6672D81C447B281A19F279434182F7A9 (void);
+extern void Background_getRandomNumber_m54E9DA23353B354F51C1D37499FE7F1A227D4B0D (void);
+extern void Background_downTimeCounter_m791B956CA651BB429A38F06E003C3449A832BF1B (void);
+extern void Background_restartGenerationBalloons_m63C87AFCCCE06D1DDA9D1E870944A401274A7E75 (void);
+extern void Background__ctor_m361E75593F0FD78AB0D52667D8EAFBB10ACD0BF8 (void);
+extern void Balloon_Start_mCD4C88738C46E1E4F43655FE2391C27F781872ED (void);
+extern void Balloon_Update_m331242438CFD98B46D5E2E9831C43DBC282F3A1E (void);
+extern void Balloon_OnMouseDown_m147BE9B7CB3AC54538229CDCE2DCDC7CF21E3937 (void);
+extern void Balloon_destroyBalloon_m613AAAB6594AE1E003F9E5DFCD8EED8241EBFF28 (void);
+extern void Balloon__ctor_m3BA592BAA0D0CC161DAD0514F588E3BD644DAA73 (void);
+extern void GameManager_Start_m87A71D65F3171A58DBDDBFB03832ADA65643D0E2 (void);
+extern void GameManager_Update_m7F29D8E933B8D21D2E67507979C0F12ACF87BB41 (void);
+extern void GameManager__ctor_mF453CED520617BFB65C52405A964E06CF17DB368 (void);
+extern void UnitySourceGeneratedAssemblyMonoScriptTypes_v1_Get_mBEB95BEB954BB63E9710BBC7AD5E78C4CB0A0033 (void);
+extern void UnitySourceGeneratedAssemblyMonoScriptTypes_v1__ctor_mE70FB23ACC1EA12ABC948AA22C2E78B2D0AA39B1 (void);
+static Il2CppMethodPointer s_methodPointers[17] = 
+{
+	Background_Start_mE85E1738F8CF767670907703177A11DDB3599DD3,
+	Background_Update_m3F6064B5F66C02B5AE62F3B5BB0F5C0895B45864,
+	Background_generateBalloon_mA1F5A5BF6672D81C447B281A19F279434182F7A9,
+	Background_getRandomNumber_m54E9DA23353B354F51C1D37499FE7F1A227D4B0D,
+	Background_downTimeCounter_m791B956CA651BB429A38F06E003C3449A832BF1B,
+	Background_restartGenerationBalloons_m63C87AFCCCE06D1DDA9D1E870944A401274A7E75,
+	Background__ctor_m361E75593F0FD78AB0D52667D8EAFBB10ACD0BF8,
+	Balloon_Start_mCD4C88738C46E1E4F43655FE2391C27F781872ED,
+	Balloon_Update_m331242438CFD98B46D5E2E9831C43DBC282F3A1E,
+	Balloon_OnMouseDown_m147BE9B7CB3AC54538229CDCE2DCDC7CF21E3937,
+	Balloon_destroyBalloon_m613AAAB6594AE1E003F9E5DFCD8EED8241EBFF28,
+	Balloon__ctor_m3BA592BAA0D0CC161DAD0514F588E3BD644DAA73,
+	GameManager_Start_m87A71D65F3171A58DBDDBFB03832ADA65643D0E2,
+	GameManager_Update_m7F29D8E933B8D21D2E67507979C0F12ACF87BB41,
+	GameManager__ctor_mF453CED520617BFB65C52405A964E06CF17DB368,
+	UnitySourceGeneratedAssemblyMonoScriptTypes_v1_Get_mBEB95BEB954BB63E9710BBC7AD5E78C4CB0A0033,
+	UnitySourceGeneratedAssemblyMonoScriptTypes_v1__ctor_mE70FB23ACC1EA12ABC948AA22C2E78B2D0AA39B1,
+};
+static const int32_t s_InvokerIndices[17] = 
+{
+	14038,
+	14038,
+	14038,
+	14028,
+	14038,
+	14038,
+	14038,
+	14038,
+	14038,
+	14038,
+	14038,
+	14038,
+	14038,
+	14038,
+	14038,
+	24729,
+	14038,
+};
+IL2CPP_EXTERN_C const Il2CppCodeGenModule g_AssemblyU2DCSharp_CodeGenModule;
+const Il2CppCodeGenModule g_AssemblyU2DCSharp_CodeGenModule = 
+{
+	"Assembly-CSharp.dll",
+	17,
+	s_methodPointers,
+	0,
+	NULL,
+	s_InvokerIndices,
+	0,
+	NULL,
+	0,
+	NULL,
+	0,
+	NULL,
+	NULL,
+	NULL,
+	NULL,
+	NULL,
+	NULL,
+};

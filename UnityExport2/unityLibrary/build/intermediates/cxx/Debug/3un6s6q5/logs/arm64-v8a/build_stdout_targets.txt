@@ -1,0 +1,2 @@
+ninja: Entering directory `/Users/alejandroojeda/Documents/GameTestBuilds/UnityExport2/unityLibrary/.cxx/Debug/3un6s6q5/arm64-v8a'
+ninja: no work to do.
